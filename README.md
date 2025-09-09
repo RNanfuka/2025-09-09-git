@@ -1,3 +1,4 @@
-push: git push origin main will send code(branch 'main') to the remote(origin)
-pull: git pull origin main will bring down code from the (branch 'main) to the remote(origin)
-erfdvdvbswv
+'push: git push origin main will send code(branch 'main') to the remote(origin)'
+'pull: git pull origin main will bring down code from the (branch 'main) to the remote(origin)'
+'git log shows me the history'
+'git diff to see the changes'
